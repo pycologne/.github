@@ -12,7 +12,7 @@ Es gibt zwei Meeting Formate:
 
 Die PyCologne Community trifft sich also jeden Monat eher locker mit Gesprächen auf Deutsch in einem kleineren Kreis und mehr oder weniger etwa alle 3 Monate zu einer etwas größeren Minikonferenz in Englisch.
 
-# PyCologne Discussions
+## PyCologne Discussions
 
 ### Details
 
@@ -34,7 +34,7 @@ Wir treffen uns normalerweise am ersten Mittwoch jeden Monat am jeweils angegebe
 *We usually meet on the first Wednesday of every month at the venue specified.*
 
 --- 
-# py:cologne \#
+## py:cologne \#
 
 Join us for another evening of Python talks, networking, snacks, and drinks! Connect with fellow Python enthusiasts, learn something new, and maybe even present a lightning talk if you're feeling inspired!
 
@@ -52,7 +52,7 @@ We follow the [PSF's code of conduct](http://python.org/psf/conduct).
 Find us on [Discord](https://discord.com/invite/AbadjmRpZN).
 
 
-### Entwicklung der PyCologne über die Jahre
+## Entwicklung der PyCologne über die Jahre
 
 #### 2006
 
