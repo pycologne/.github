@@ -34,7 +34,7 @@ Wir treffen uns normalerweise am ersten Mittwoch jeden Monat am jeweils angegebe
 *We usually meet on the first Wednesday of every month at the venue specified.*
 
 --- 
-# PyCologne \#
+# py:cologne \#
 
 Join us for another evening of Python talks, networking, snacks, and drinks! Connect with fellow Python enthusiasts, learn something new, and maybe even present a lightning talk if you're feeling inspired!
 
@@ -50,3 +50,38 @@ info@pycologne.org
 
 We follow the [PSF's code of conduct](http://python.org/psf/conduct).
 Find us on [Discord](https://discord.com/invite/AbadjmRpZN).
+
+
+### Entwicklung der PyCologne über die Jahre
+
+#### 2006
+
+Gründung – monatliche Treffen im RRZK-B, Universität zu Köln. Wiki unter pycologne.de. International auf python.org gelistet.
+
+#### 2007
+
+1-jähriges Jubiläum – 13 Treffen, 21 Vorträge, 12 Referenten an 4 Veranstaltungsorten.
+
+#### 2008+
+
+FrOSCon-Präsenz FrOSCon – Python-Projektraum und Workshops, gemeinsam mit PySV und den Django/Plone-Communities an der FH Bonn-Rhein-Sieg, Sankt Augustin. Seit vielen Jahren jährlich stattfindend.
+
+#### ~2010
+
+Start des PythonCamp Cologne PythonCamp – jährliches Open-Source-Barcamp, gemeinsam mit PySV bei der GFU Cyrus AG organisiert. Über 10 Jahre lang durchgeführt.
+
+#### 2013
+
+PyCon DE 2013 – Köln PyCon DE – gemeinsam mit dem DLR und PySV im KOMED Mediapark organisiert. Über 400 Teilnehmer, umfassendes Programm mit Tutorials, Vorträgen, Sprints und Barcamp.
+
+#### 2019
+
+10. PythonCamp Köln PythonCamp – Jubiläumsausgabe mit Tracks zu ML, KI und Jupyter.
+
+#### 2024
+
+Das Meetup-Konto wird unbeabsichtigt deaktiviert. PyCologne # bildet sich eigenständig, dann vereinbaren beide Gruppen, die Meetup-Seite gemeinsam zu nutzen.
+
+#### Heute
+
+**Zwei Communities, ein Meetup** – die klassische Diskussionsgruppe (deutsch, monatlich) und py:cologne # (englisch, ~vierteljährlich) existieren nach gegenseitiger Vereinbarung gemeinsam unter meetup.com/pycologne.
