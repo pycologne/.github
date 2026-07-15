@@ -12,6 +12,9 @@ Es gibt zwei Meeting Formate:
 
 Die PyCologne Community trifft sich also jeden Monat eher locker mit Gesprächen auf Deutsch in einem kleineren Kreis und mehr oder weniger etwa alle 3 Monate zu einer etwas größeren Minikonferenz in Englisch.
 
+### Website der Classic Group seit 2026 neu online
+https://pycologne.de
+
 ## PyCologne Discussions
 
 ### Details
